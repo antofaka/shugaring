@@ -11,6 +11,7 @@
 .our-clients .brand-logo ul li { width:50%; padding:0 5px 10px; }
 .panel-default > .panel-heading { padding-left:15px; }
 .panel-body { padding:28px 15px 22px; }
+.white-bgmap {padding:10px 30px; height:525px; width: 80%; }
 
 .address p { font-size:14px; line-height:20px; }
 .social-icon li { padding:0 4px !important; }
@@ -21,6 +22,7 @@ ul.portfolio-gal-filter li { padding:0 6px !important; }
 @media (min-width: 569px) and (max-width: 767px){
 .caption h1 { font-size:45px; line-height:45px; }
 .our-clients .brand-logo ul li { width:33.33%; }
+.white-bgmap {padding:10px 10px; height:525px; width: 80%; }
 
 
 
@@ -45,6 +47,7 @@ p, .panel-body, .address a, .contact-us .form-control { font-size:14px !importan
 .priceing-table { padding:25px 0; }
 .faq { padding:25px 0 !important; } 
 
+.white-bgmap {padding:10px 10px; height:525px; width: 80%; }
 .screenshot { padding:25px 0; }
 
 .mb-46 { margin-bottom:20px !important; }
@@ -136,6 +139,8 @@ nav ul li { width:100%; }
 
 .contact-us { padding:85px 0; }
 .contact-us .white-bg { padding:50px 15px; height:525px; }
+
+.white-bgmap {padding:10px 10px; height:525px; width: 90%; }
 
 .about-us.padding-tb-150 img { width:100%; margin-bottom:25px; }
 
